@@ -4,9 +4,9 @@ fun main()
    var kelas = "XI RPL 2"
    var hobi = "Write Code"
 
-  println("nama =$nama") 
-  println("kelas =$kelas") 
-  println("hobi =$hobi") 
+  println("nama: $nama") 
+  println("kelas: $kelas") 
+  println("hobi: $hobi") 
    
 }
    
